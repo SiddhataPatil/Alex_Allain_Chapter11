@@ -2,8 +2,8 @@
  ==============================================================================================================================
  Name        : qs2.cpp
  Author      : Siddhata Patil
- Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
- Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
+ Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
+ Copyright   : Copyright ©  Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
  Question    : Create an array of space ship objects and write a program that continually updates their
                positions until they all go off the screen. Assume that the size of the screen is 1024 pixels by 768
                pixels.
