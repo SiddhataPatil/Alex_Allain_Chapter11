@@ -2,8 +2,8 @@
  ==============================================================================================================================
  Name        : qs4.cpp
  Author      : Siddhata Patil
- Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
- Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
+ Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
+ Copyright   : Copyright ©  Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
  Question    : Write a program that allows a user to enter high scores of a game, keeping tracking of the name
                of the user and the score. Add the ability to show the highest score for each user, all scores for a
                particular user, all scores from all users, and the list of users.
