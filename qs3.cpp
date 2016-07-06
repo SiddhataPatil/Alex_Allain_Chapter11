@@ -2,8 +2,8 @@
  ==============================================================================================================================
  Name        : qs3.cpp
  Author      : Siddhata Patil
- Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
- Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
+ Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
+ Copyright   : Copyright ©  Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
  Question    : Create an address book program that builds on problem #1—this time, the user should be able
                to not just fill out a single structure, but should be able to add new entries, each with a separate
                name and phone number. Let the user add as many entries as he or she wants—is this easy to
