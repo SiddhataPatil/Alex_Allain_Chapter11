@@ -38,6 +38,7 @@ int get_highscore_player (Info player[], int no_players)
 	}
 	return index;
 }
+
 void playagain(Info P[], int n, int i)
 {
 	int temp;
@@ -50,6 +51,7 @@ void playagain(Info P[], int n, int i)
 		}
 		else P[i].score = temp; 
 }
+
 void play(Info P[], int n, int i)
 {
 		cout<<"Rolling Dice .... "<<endl;	
@@ -57,6 +59,7 @@ void play(Info P[], int n, int i)
 		P[i].score=0;
 		cout<<P[i].highscore<<endl;
 }
+
 int main()
 {
 	clock_t begin = clock();
